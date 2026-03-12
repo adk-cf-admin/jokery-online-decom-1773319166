@@ -1,0 +1,203 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#191919",
+            "lang-select-color": "#222829",
+            "bg-light": "#191919",
+            "welcome-bonus-bg": "#191919",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#232323",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#F7A81E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#EB0404",
+            "yellow": "#F7A81E",
+            "yellow-button": "#EB0404",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#F7A81E",
+            "casino-cards": "#191919",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#F7A81E",
+            "providers-back": "#191919",
+            "faq-label": "#191919",
+            "bg-footer": "#191919",
+            "copyright": "#e7e7d5",
+            "starColor": "#F7A81E",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4328"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4329",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Jokery Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4332",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Jokery"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Jokery",
+                    "title": "Jokery Casino | Offizielle Seite mit Boni bis 1.500€ & Euro-Auszahlungen",
+                    "description": "Spielen Sie 14.000+ Slots und Live-Casino auf lizenzierter Plattform. Willkommensbonus bis 1.500€, 5% Cashback, Sofortauszahlungen in Euro & 24\/7 Support auf Deutsch.",
+                    "canonical": "jokery-online-de.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4333",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "jokery-online-de.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4335"
+                },
+                "hero": {
+                    "title": "Jokery Casino – Lizenzierte Plattform mit 14.000+ Spielen und Boni bis 1.500€",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4337",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4340",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "Rate",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "Erhalten",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Lizenz aus Curaçao garantiert Sicherheit",
+                        "Über 14.000 Spiele von Top-Providern",
+                        "Sofortauszahlungen über Krypto-Wallets",
+                        "24\/7 Support in mehreren Sprachen",
+                        "Transparente Bonusbedingungen",
+                        "Moderne Datenverschlüsselung für Nutzer"
+                    ],
+                    "advantagesAfterText": "Unser Casino schafft eine komfortable Spielumgebung, in der jeder Gast Unterhaltung nach seinem Geschmack findet. Wir legen besonderen Wert auf technologische Zuverlässigkeit und Servicequalität, damit Sie sich auf das Spiel konzentrieren können.",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Jokery App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4341",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Jokery App",
+                    "mobileGooglePlayImageTitle": "Jokery App",
+                    "mobileIosImageTitle": "Jokery App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über das Jokery",
+                        "description1": "Wir bieten ein progressives Multiplikatorsystem. Unsere Plattform gewährleistet faire Ergebnisgenerierung.\n",
+                        "items": [
+                            "Gewinne bis 50.000€ pro Spin",
+                            "100% Bonus bis 1.500€ für Neukunden",
+                            "5% Cashback ohne Umsatz täglich"
+                        ],
+                        "description2": "Unser Casino ist eine moderne Unterhaltungsplattform, auf der jeder Interessen nachgehen kann. Wir organisieren regelmäßig thematische Events zu Feiertagen und saisonalen Anlässen und schaffen so eine einzigartige Atmosphäre für unsere Gäste. Das Bonusprogramm wurde unter Berücksichtigung der Vorlieben verschiedener Spielerkategorien entwickelt: Neue Spieler erhalten ein Willkommenspaket, während Stammkunden von personalisierten Angeboten profitieren. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/4342",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Das Loyalty-Programm umfasst fünf Stufen, von denen jede neue Privilegien und Möglichkeiten eröffnet. Wir veranstalten wöchentliche Turniere mit Preisgeldern, bei denen die Teilnehmer in Können und Glück wetteifern. Der Unterhaltungscontent wird monatlich aktualisiert: Neue Slots, exklusive Releases und klassische Tischspiele sind stets in unserem Katalog verfügbar. Spezielle saisonale Aktionen bringen zusätzliche Boni und Freispiele und machen das Spiel noch spannender. Wir schätzen die Zeit unserer Gäste, daher haben alle Promo-Aktivitäten verständliche Bedingungen und transparente Teilnahmeregeln. Live-Casino-Events werden mit professionellen Dealern durchgeführt und schaffen das Gefühl, in einem Premium-Spielzimmer zu sein. Das Loyalty-Programm vergibt Punkte für jeden Einsatz, die gegen Boni, Freispiele oder echtes Geld eingetauscht werden können. Wir sorgen für Abwechslung im Freizeitangebot, daher umfasst unser Sortiment nicht nur Glücksspiele, sondern auch Unterhaltungsshows, Quizze und interaktive Formate. Persönliche Manager unterstützen Teilnehmer höherer Loyalty-Stufen bei individuellen Anfragen. Wir analysieren kontinuierlich die Präferenzen der Spieler, um das Bonussystem zu verbessern und максимально relevante Angebote zu machen. Regelmäßige Plattform-Updates gewährleisten den stabilen Betrieb aller Funktionen und schnellen Zugriff auf Lieblingsunterhaltungen. Unser Team organisiert exklusive Events für aktive Teilnehmer, einschließlich geschlossener Turniere und spezieller Verlosungen. Boni für die Registrierung im Loyalty-Programm umfassen Willkommenspunkte und Zugang zu exklusiven Aktionen. Wir streben langfristige Beziehungen zu Spielern an und bieten faire Bedingungen sowie angemessene Belohnungen für Aktivität. Alle Events und Bonusprogramme entsprechen den Prinzipien des verantwortungsvollen Spielens und unterliegen internen Qualitätsstandards.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Unterhaltung und Gaming im Jokery",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">Besuchsregeln und verantwortungsvolles Spielen<\/h3>\n<p>Unser Casino begrüßt Gäste, die volljährig sind und bereit sind, die festgelegten Regeln einzuhalten. Wir haben komfortable Unterhaltungsbedingungen geschaffen, die auf Fairness und Sicherheit basieren. Der Plattformzugang steht nur Nutzern offen, die den Identitätsverifizierungsprozess durchlaufen haben. Wir halten strikt an Altersbeschränkungen fest und lassen Personen unter 18 Jahren nicht zum Spiel zu. Verantwortungsvolles Spielen ist für unser Team Priorität, daher stellen wir Tools zur Kontrolle des Spielprozesses bereit. Die Erstellung mehrerer Konten durch einen Nutzer oder die Verwendung von Drittanbieter-Software zum Vorteilserlangung ist untersagt. Wir behalten uns das Recht vor, Konten bei Verdacht auf Regelverstöße zu sperren. Jeder Gast trägt persönliche Verantwortung für seine Handlungen und Einsätze auf der Plattform. Wir empfehlen, persönliche Limits für Einzahlungen und Spielzeit festzulegen, um einen komfortablen Zeitvertreib zu gewährleisten. Die Verwendung von Bonusguthaben in Spielen, die nicht zur Umsatzbedingungserfüllung zugelassen sind, ist untersagt. Wir gewährleisten Transparenz aller Transaktionen und Fairness der Ergebnisgenerierung. Gäste müssen bei Registrierung und Verifizierung aktuelle personenbezogene Daten angeben. Wir übernehmen keine Haftung für Verluste, die durch Regelverstöße des Nutzers entstehen. Die Weitergabe von Zugangsdaten an Dritte für den Kontozugriff ist untersagt. Wir fördern faires Spiel und verhängen Sanktionen gegen Regelbrecher. Jeder Teilnehmer stimmt den Regeln bei der Registrierung zu und verpflichtet sich, diese einzuhalten. Wir bieten die Möglichkeit der Selbstsperre für Gäste, die den Plattformzugang einschränken möchten. Die Nutzung der Plattform zur Geldwäsche oder anderen illegalen Aktivitäten ist untersagt. Wir arbeiten mit Regulierungsbehörden zusammen, um die Gesetzeskonformität unserer Tätigkeit sicherzustellen. Gäste können sich bei Unklarheiten zu Besuchsregeln an den Support wenden.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Zugangsvoraussetzungen<\/h4>\n<ul><li>• Altersbeschränkung: Zugang nur ab 18 Jahren<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Kontoregeln<\/h4>\n<ul><li>• Identitätsverifizierung für Auszahlungen erforderlich<\/li><li>• Ein Konto pro Nutzer, Multi-Accounting verboten<\/li><li>• Weitergabe von Zugangsdaten an Dritte untersagt<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Verbotene Aktivitäten<\/h4>\n<ul><li>• Nutzung von Bots oder Drittanbieter-Software<\/li><li>• Bonusguthaben nur in zugelassenen Spielen verwendbar<\/li><li>• Plattformnutzung für Geldwäsche oder illegale Aktivitäten verboten<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Verantwortungsvolles Spielen<\/h4>\n<ul><li>• Persönliche Limits für Einzahlungen und Sitzungen empfohlen<\/li><li>• Selbstsperre in Profileinstellungen verfügbar<\/li><li>• Einhaltung des Wohnsitzlandgesetzes erforderlich<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">Lizenz und Datenschutz für Spieler<\/h3>\n<p>Unser Casino operiert auf Basis einer Lizenz der Curaçao-Regulierungsbehörde, was die Einhaltung internationaler Glücksspielstandards gewährleistet. Wir verwenden moderne SSL-Verschlüsselungsprotokolle zum Schutz der Übertragung personenbezogener und finanzieller Nutzerdaten. Die Datenschutzrichtlinie regelt Erhebung, Speicherung und Nutzung von Informationen und garantiert, dass Daten ohne Zustimmung des Nutzers nicht an Dritte weitergegeben werden. Jede Transaktion durchläuft mehrstufige Sicherheitsprüfungen zur Verhinderung unbefugten Zugriffs. Wir führen regelmäßige Audits der Sicherheitssysteme durch und aktualisieren Verschlüsselungsalgorithmen gemäß branchenüblichen Best Practices. Personenbezogene Daten werden auf geschützten Servern mit eingeschränktem Zugriff für autorisiertes Personal gespeichert. Die Datenschutzrichtlinie gewährt Nutzern das Recht, jederzeit Auskunft über, Korrektur oder Löschung ihrer Daten zu verlangen. Wir verwenden Cookies ausschließlich zur Verbesserung der Nutzererfahrung und Verhaltensanalyse auf der Plattform. Alle Partner und Spielprovider, mit denen wir zusammenarbeiten, müssen ebenfalls strenge Informationsschutzstandards einhalten. Bei Entdeckung von Schwachstellen ergreift unser Sicherheitsteam umgehend Korrekturmaßnahmen. Wir speichern nach Transaktionsverarbeitung keine vollständigen Bankkartendaten und verwenden Tokenisierung für zusätzlichen Schutz. Die Datenschutzrichtlinie ist jederzeit einsehbar, und wir empfehlen, Aktualisierungen zu prüfen. Die GDPR-Konformität bietet zusätzlichen Schutz für Nutzer aus europäischen Rechtsgebieten. Wir bieten Zwei-Faktor-Authentifizierung als optionales Tool zur Kontosicherheitsverstärkung an. Regelmäßige Mitarbeiterschulungen im Bereich Datenschutz halten das Bewusstsein des Teams für Cyberbedrohungen auf hohem Niveau.<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">Zahlungsmethoden und Limits<\/h3>\n<p>Unser Casino unterstützt eine breite Palette von Zahlungsmethoden für Nutzer aus Deutschland. Einzahlungen werden bei den meisten Methoden sofort verarbeitet, sodass Sie sofort mit dem Spiel beginnen können. Auszahlungen durchlaufen ein Sicherheitsprüfverfahren, wonach die Mittel innerhalb festgelegter Fristen gutgeschrieben werden. Wir verwenden geschützte Datenübertragungskanäle für alle Finanztransaktionen. Kryptowährungstransaktionen bieten zusätzliche Anonymität und Verarbeitungsgeschwindigkeit. Die minimale Einzahlung beträgt 10€, was die Plattform für verschiedene Budgets zugänglich macht. Auszahlungen sind ab 20€ möglich, was angemessenen Transaktionsanforderungen entspricht. Auszahlungslimits hängen von der Loyalty-Stufe und der gewählten Zahlungsmethode ab. Die Bearbeitung von Auszahlungsanträgen dauert bei Fiat-Währungen einige Stunden bis drei Werktage. Krypto-Auszahlungen werden in der Regel innerhalb von 24 Stunden nach Genehmigung bearbeitet. Wir erheben keine Gebühren für Einzahlungen; Auszahlungsgebühren hängen vom Zahlungsanbieter ab. Alle Transaktionen werden in der Kontohistorie zur einfachen Nachverfolgung angezeigt. Der Support hilft bei Fragen zu Finanztransaktionen. Wir empfehlen, dieselbe Methode für Ein- und Auszahlungen zu verwenden, um die Verifizierung zu vereinfachen. Regelmäßige Prüfungen der Zahlungssysteme gewährleisten Stabilität und Zuverlässigkeit der Transaktionen.<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n<thead>\n<tr style=\"background-color: #F7A81E;\">\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1-3 Werktage<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill \/ Neteller<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 24 Stunden<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Krypto<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 24 Stunden<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Überweisung<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1-2 Werktage<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">3-5 Werktage<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>MiFinity<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Sofort<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">Bis 24 Stunden<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Auszahlungslimits<\/h4>\n<ul><li>• Minimale Auszahlung: 20€<\/li><li>• Maximale tägliche Auszahlung: 700€ bis 2.000€ (je nach Stufe)<\/li><li>• Maximale monatliche Auszahlung: 14.000€ bis 40.000€ (je nach Stufe)<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">Kundensupport und Service<\/h3>\n<p>Unser Support-Team arbeitet rund um die Uhr, um zeitnahe Hilfe bei allen Fragen zu gewährleisten. Wir bieten mehrere Kommunikationskanäle für Nutzerkomfort: Live-Chat, E-Mail und Telefon-Hotline. Die durchschnittliche Antwortzeit im Chat beträgt weniger als zwei Minuten, was eine schnelle Problemlösung ermöglicht. Unsere Mitarbeiter sprechen mehrere Sprachen, darunter Deutsch und Englisch, für komfortable Kommunikation. Die Servicequalität wird durch hohe Nutzerzufriedenheit und positive Bewertungen bestätigt. Jede Anfrage wird im System registriert, um den Status zu verfolgen und konsistenten Service zu gewährleisten. Wir schulen das Support-Team regelmäßig, um ein hohes Kompetenz- und Plattformwissensniveau zu halten. Komplexe technische Fragen werden an spezialisierte Abteilungen zur vertieften Lösung weitergeleitet. Die Wissensdatenbank auf der Website enthält Antworten auf häufig gestellte Fragen zur selbstständigen Informationssuche. Wir schätzen Feedback und nutzen es zur kontinuierlichen Serviceverbesserung. Der Support hilft bei Kontoverifizierung, Finanztransaktionen und technischen Einstellungen. Mehrsprachiger Support gewährleistet Komfort für internationale Nutzer unserer Plattform. Wir streben danach, dass sich jeder Gast von unserem Team umsorgt und beachtet fühlt. Regelmäßige Zufriedenheitsumfragen helfen uns, den Service an Spielerbedürfnisse anzupassen. Der Support ist über die Mobile App für unterwegs verfügbar. Wir bieten persönliche Hilfe für Teilnehmer höherer Loyalty-Stufen durch dedizierte Manager. Transparenz in der Kommunikation und Ehrlichkeit in Antworten sind Grundprinzipien unseres Supports.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Kontaktmöglichkeiten<\/h4>\n<ul><li>• Live-Chat: 24\/7 verfügbar, Antwort innerhalb von 2 Minuten<\/li><li>• E-Mail: support@jokerycasino.com, Antwort innerhalb von 4 Stunden<\/li><li>• Telefon: Hotline für priorisierte Anfragen<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Service-Merkmale<\/h4>\n<ul><li>• Sprachen: Deutsch, Englisch, internationale Unterstützung<\/li><li>• Wissensdatenbank: Artikel und Anleitungen zur Selbsthilfe<\/li><li>• Eskalation: Komplexe Fragen an Spezialisten<\/li><li>• Feedback: Umfragen zur Serviceverbesserung<\/li><li>• Persönlicher Manager: Für hohe Loyalty-Stufen<\/li><\/ul><br>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Jokery: Ihr Komfort — Regeln, Sicherheit, Support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">Loyalty-Programm und Privilegien<\/h3>\n<p>Unser Loyalty-Programm wurde entwickelt, um aktive Spieler zu belohnen und langfristige Beziehungen aufzubauen. Die Registrierung im Programm erfolgt automatisch bei Kontoerstellung ohne zusätzliche Schritte. Teilnehmer sammeln Punkte für jeden realen Einsatz, die in Boni oder echtes Geld umgewandelt werden können. Das Programm umfasst fünf Stufen: von der Einstiegs- bis zur Premium-Stufe, wobei jede neue Vorteile eröffnet. Der Aufstieg zur nächsten Stufe erfolgt beim Erreichen einer festgelegten Punktezahl innerhalb eines definierten Zeitraums. Programm-Boni umfassen personalisierte Angebote, erhöhte Auszahlungslimits und exklusive Promo-Aktionen. Teilnehmer höherer Stufen erhalten Zugang zu einem persönlichen Manager für individuelle Anfragen. Das Cashback-Programm erstattet einen Teil der verlorenen Mittel ohne zusätzliche Umsatzbedingungen. Spezielle Punkte-Verdopplungstage ermöglichen schnelleren Fortschritt im Loyalty-Programm. Punkte verfallen nicht bei Inaktivität, was flexible Programmnutzung gewährleistet. Der Punktetausch gegen Boni erfolgt über eine benutzerfreundliche Oberfläche im persönlichen Bereich. Teilnahmebedingungen sind transparent und im Loyalty-Programm-Bereich einsehbar. Wir aktualisieren regelmäßig Stufenprivilegien basierend auf Teilnehmer-Feedback. Personalisierte Geburtstagsboni bieten angenehme Überraschungen für Stammgäste. Das Loyalty-Programm ist in das Turniersystem integriert für zusätzliche Punkteverdienstmöglichkeiten. Wir schätzen Spielerloyalität und streben danach, Aktivität mit angemessenen Privilegien zu belohnen.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Programm-Details<\/h4>\n<ul><li>• Registrierung: Automatisch bei Kontoerstellung<\/li><li>• Punktevergabe: 1 Punkt pro 10€ reale Einsätze<\/li><li>• Stufen: 5 Levels von Bronze bis Diamond<\/li><li>• Aufstieg: Nach Punktesammlung pro Kalendermonat<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Vorteile und Boni<\/h4>\n<ul><li>• Cashback: 1-5% ohne Umsatzbedingungen<\/li><li>• Personalisierte Promos und erhöhte Limits<\/li><li>• Persönlicher Manager: Ab Stufe Gold<\/li><li>• Punktetausch: 100 Punkte = 1€ Bonus oder Freispiele<\/li><li>• Spezialaktionen: Punkteverdopplung an Wochenenden<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">Boni und Sonderangebote<\/h3>\n<p>Unser Casino bietet ein vielfältiges Bonussystem für neue und Stammkunden. Das Willkommenspaket umfasst einen 100% Bonus bis 1.500€ auf die erste Einzahlung mit zusätzlichen Freispielen. Wöchentliche Reload-Boni ermöglichen Guthabenaufstockung zu vorteilhaften Konditionen. Cashback bis 5% wird automatisch ohne Aktivierungspflicht erstattet. Saisonale Events bringen exklusive Promo-Codes und thematische Belohnungen. Turniere mit Preisgeldern bis 50.000€ werden regelmäßig in verschiedenen Spielkategorien durchgeführt. Freispiele werden für Aktivität vergeben und können in beliebten Slots verwendet werden. Der Bonus-Shop ermöglicht den Tausch gesammelter Münzen gegen Freispiele oder Bonusguthaben. Sportwetten werden durch einen separaten 100% Bonus bis 250€ mit vereinfachten Bedingungen unterstützt. Sonderangebote zu Feiertagen verdoppeln Standardboni oder fügen einzigartige Belohnungen hinzu. Das Empfehlungsprogramm belohnt das Einladen von Freunden mit Boni bis 100€ pro Person. Sofortboni für das Erreichen bestimmten Spielergebnisse fügen ein Überraschungselement hinzu. Alle Boni haben transparente Umsatzbedingungen, die vor Aktivierung einsehbar sind. Wir aktualisieren regelmäßig das Promo-Angebot, um Angebote aktuell und interessant zu halten. Spezielle Live-Casino-Events bringen exklusive Boni für Tischteilnehmer. No-Deposit-Boni sind gelegentlich zum Testen neuer Spiele oder zur Spieler-Rückgewinnung verfügbar. Wir streben eine Balance zwischen Großzügigkeit der Angebote und Nachhaltigkeit der Spielökonomie an.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Bonus-Übersicht<\/h4>\n<ul><li>• Willkommensbonus: 100% bis 1.500€ + 100 Freispiele<\/li><li>• Wochenbonus: 50% bis 500€ freitags<\/li><li>• Cashback: Bis 5% ohne Umsatz, automatisch<\/li><li>• Turniere: Preisgelder bis 50.000€, wöchentliche Draws<\/li><li>• Freispiele: Für Aktivität, in beliebten Slots<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Spezialangebote<\/h4>\n<ul><li>• Bonus-Shop: Münzentausch gegen Freispiele\/Boni<\/li><li>• Sportbonus: 100% bis 250€, 6x Umsatz<\/li><li>• Feiertagsaktionen: Verdoppelte Boni und Exklusivpreise<\/li><li>• Empfehlungsprogramm: Bis 100€ pro eingeladenem Freund<\/li><li>• Sofortboni: Für Spielerfolge und Combos<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">Spielangebot und Wetten<\/h3>\n<p>Unser Casino bietet eine umfangreiche Sammlung von über 14.000 Spielen führender weltweiter Provider. Slots umfassen klassische Drei-Walzen-Modelle, moderne Video-Slots und Spiele mit Bonus-Kauf-Mechanik. Progressive Jackpots erreichen Millionenbeträge und schaffen Möglichkeiten für große Gewinne. Tischspiele beinhalten verschiedene Roulette-, Blackjack-, Poker- und Baccarat-Versionen mit unterschiedlichen Einsatzlimits. Live-Casino wird in Echtzeit mit professionellen Dealern in mehreren Sprachen übertragen. Exklusive Releases und speziell für unsere Plattform entwickelte Spiele sind nur bei uns verfügbar. Das Sportbuch deckt über 30 Sportarten mit Live-Wetten und breiter Marktauswahl ab. E-Sport-Disziplinen umfassen populäre Turniere internationaler Spiele. Virtueller Sport bietet Ereignissimulationen für Wetten zu jeder Tageszeit. Spiele mit Sofortauszahlungen ermöglichen Gewinne unmittelbar nach Rundenende. Demo-Modus ist für die meisten Spiele verfügbar, um die Mechanik ohne Risiko kennenzulernen. Filterung nach Provider, Thema und Funktion vereinfacht die Suche passender Unterhaltung. Regelmäßige Katalog-Updates gewährleisten das Erscheinen von Neuheiten und aktuellem Content. Adaptive Optimierung garantiert stabilen Spielbetrieb auf allen Geräten. Wir kooperieren nur mit lizenzierten Providern, um Fairness der Ergebnisgenerierung zu gewährleisten. Spielsitzungen werden beim Gerätewechsel gespeichert für kontinuierliches Erlebnis.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Spielkategorien<\/h4>\n<ul><li>• Video-Slots: Über 10.000 Titel, verschiedene Themen und Mechaniken<\/li><li>• Progressive Jackpots: Kumulative Preise bis zu mehreren Millionen Euro<\/li><li>• Tischspiele: Roulette, Blackjack, Poker, Baccarat, Craps<\/li><li>• Live-Casino: ~1.000 Tische, Dealer in Echtzeit<\/li><li>• Sportwetten: 30+ Sportarten, Live-Märkte, E-Sport<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Zusätzliche Features<\/h4>\n<ul><li>• Virtueller Sport: Simulationen von Fußball, Rennen, Motorsport 24\/7<\/li><li>• Exklusivtitel: Nur auf unserer Plattform verfügbare Spiele<\/li><li>• Demo-Modus: Kostenloses Spiel ohne Registrierung für die meisten Slots<\/li><li>• Filter: Suche nach Provider, Volatilität, Bonus-Features<\/li><li>• Mobile Optimierung: Vollfunktionalität auf Smartphones und Tablets<\/li><\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">Einsatzlimits und Spielparameter<\/h3>\n<p>Unser Casino bietet flexible Einsatzlimits, um die Bedürfnisse verschiedener Spielerkategorien zu erfüllen. Minimale Einsätze beginnen bei 0,10€ in Slots, was Spielen mit kleinem Budget ermöglicht. Maximale Einsätze erreichen 100€ pro Spin in Premium-Slots für High-Roller. Tischspiele bieten eine breite Spanne: von 1€ bis 5.000€ je nach Tischtyp. Live-Casino setzt Limits von 5€ bis 10.000€ pro Hand oder Runde. Sportwetten akzeptieren 0,50€ bis 5.000€ pro Einzelereignis. Progressive Jackpots erfordern einen Mindesteinsatz für die Teilnahme am Hauptpreis-Draw. Limits können je nach Loyalty-Stufe und Kontohistorie angepasst werden. Wir empfehlen, die Regeln des jeweiligen Spiels vor Sessionsbeginn zu prüfen. Adaptive Limits gewährleisten Komfort sowohl für Neueinsteiger als auch für erfahrene Spieler.<\/p>\n<br>\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n<thead>\n<tr style=\"background-color: #F7A81E;\">\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n<th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n<\/tr>\n<\/thead>\n<tbody>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Video-Slots<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,10€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">100€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Progressive Jackpots<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,20€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">50€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (Standard)<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">2.000€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (Standard)<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">2€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">3.000€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live-Casino<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">5€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">10.000€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sportwetten<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,50€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">5.000€<\/td>\n<\/tr>\n<tr>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Virtueller Sport<\/strong><\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">0,50€<\/td>\n<td style=\"border: 1px solid #ffffff; padding: 10px;\">1.000€<\/td>\n<\/tr>\n<\/tbody>\n<\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">Turniere und Leaderboards<\/h3>\n<p>Unser Casino veranstaltet regelmäßig Turniere mit Preisgeldern für aktive Spieler. Die Teilnahme an den meisten Turnieren erfolgt automatisch beim Spielen in qualifizierenden Slots. Punkte werden für jeden Einsatz vergeben: 1 Punkt pro 1€ realem Einsatz in Slots. In Live-Casino-Turnieren zählen gewonnene Hände oder Runden. Zeitboni verdoppeln Punkte zu bestimmten Uhrzeiten für schnelleren Fortschritt. Das Leaderboard wird in Echtzeit aktualisiert und ermöglicht die Verfolgung der Ranglistenposition. Preise werden unter den Top-100-Teilnehmern je nach Endplatzierung verteilt. Gewinne werden automatisch nach Turnierende ohne zusätzliche Bedingungen gutgeschrieben. Spezielle Einladungen zu geschlossenen Turnieren erhalten Teilnehmer hoher Loyalty-Stufen. Teilnahme-Statistiken und Turnierhistorie sind im persönlichen Bereich einsehbar. Wir empfehlen, frühzeitig an Turnieren teilzunehmen, um maximale Punkte zu sammeln.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Teilnahme und Punkte<\/h4>\n<ul><li>• Automatische Registrierung: In qualifizierenden Spielen<\/li><li>• Punktevergabe: 1 Punkt pro 1€ Einsatz in Slots<\/li><li>• Live-Casino: Punkte für gewonnene Hände\/Runden<\/li><li>• Bonuszeiten: Punkteverdopplung zu Stoßzeiten<\/li><\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Preise und Tracking<\/h4>\n<ul><li>• Leaderboard: Echtzeit-Updates der Ranglistenposition<\/li><li>• Preisverteilung: Unter Top-100-Spielern nach Endplatz<\/li><li>• Auszahlungen: Automatisch nach Turnierende<\/li><li>• Geschlossene Turniere: Auf Einladung für Loyale<\/li><li>• Statistik: Teilnahme-Historie im persönlichen Bereich<\/li><li>• Strategie: Frühe Teilnahme für Punktemaximierung<\/li><\/ul><br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wie erfolgt die Kontoverifizierung?",
+                            "answer": "Die Verifizierung erfordert das Hochladen eines Identitätsnachweises und einer Adressbestätigung. Der Prozess dauert bis zu 24 Stunden.\n"
+                        },
+                        {
+                            "title": "Sind Spiele im Demo-Modus verfügbar?",
+                            "answer": "Die meisten Slots sind im Demo-Modus ohne Registrierung zum Kennenlernen verfügbar.\n"
+                        },
+                        {
+                            "title": "Wie funktioniert die Selbstsperre?",
+                            "answer": "Selbstsperre wird in Profileinstellungen aktiviert und blockiert den Zugriff für den gewählten Zeitraum.\n"
+                        },
+                        {
+                            "title": "Wie erhalte ich einen personalisierten Bonus?",
+                            "answer": "Personalisierte Boni werden aktiven Spielern automatisch gutgeschrieben oder auf Support-Anfrage.\n"
+                        },
+                        {
+                            "title": "Was ist ein Umsatz und wie wird er erfüllt?",
+                            "answer": "Umsatz ist die Bonus-Umsatzbedingung; Erfüllung berechnet sich nach: Bonusbetrag × Multiplikator.\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
